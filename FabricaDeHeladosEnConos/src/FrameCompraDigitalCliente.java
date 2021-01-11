@@ -36,7 +36,8 @@ public class FrameCompraDigitalCliente{
 			txtApellido.setText("");
 			txtNombre.setText("");
 			txtCantidad.setText("");
-
+		
+			JOptionPane.showMessageDialog(null, "El cliente se registro con exito");
 	}
 	
 	private void buscarDatos() {
@@ -45,10 +46,10 @@ public class FrameCompraDigitalCliente{
 		
 		if (cliente == null) {	
 			JOptionPane.showMessageDialog(null, "No existe el cliente");
-			System.out.println("No se encontraron resultados para la búsqueda");
+			System.out.println("No se encontraron resultados para la bÃºsqueda");
 			
 		} else {
-			System.out.println("Resultado de la búsqueda del cliente: " + cliente.toString());
+			System.out.println("Resultado de la bÃºsqueda del cliente: " + cliente.toString());
 			
 			txtApellido.setText(cliente.getApellido());
 			txtNombre.setText(cliente.getNombre());
@@ -67,7 +68,7 @@ public class FrameCompraDigitalCliente{
 			txtApellido.setText("");
 			txtNombre.setText("");
 			txtCantidad.setText("");
-			System.out.println("No se encontraron resultados para la búsqueda");
+			System.out.println("No se encontraron resultados para la bÃºsqueda");
 			
 		} else {	
 			
@@ -75,6 +76,8 @@ public class FrameCompraDigitalCliente{
 			txtApellido.setText("");
 			txtNombre.setText("");
 			txtCantidad.setText("");
+			
+			JOptionPane.showMessageDialog(null, "El cliente se elimino con exito");
 		}			
 		
 	}
