@@ -31,11 +31,11 @@ public class Main {
 		int opc;
 
 		do {
-			System.out.println("1- Encender fábrica");
+			System.out.println("1- Encender fabrica");
 			System.out.println("2- Registrar cliente");
 			System.out.println("3- Buscar cliente");
 			System.out.println("4- Eliminar cliente");
-			System.out.println("5- Apagar fábrica");
+			System.out.println("5- Apagar fabrica");
 
 			opc = sc.nextInt();
 			sc.nextLine();
@@ -108,9 +108,9 @@ public class Main {
 		Clientes cliente = dao.buscarCliente(leg);
 
 		if (cliente != null) {
-			System.out.println("Resultado de la búsqueda del cliente: " + cliente.toString());
+			System.out.println("Resultado de la bÃºsqueda del cliente: " + cliente.toString());
 		} else {
-			System.out.println("No se encontraron resultados para la búsqueda");
+			System.out.println("No se encontraron resultados para la bÃºsqueda");
 		}
 	}
 
