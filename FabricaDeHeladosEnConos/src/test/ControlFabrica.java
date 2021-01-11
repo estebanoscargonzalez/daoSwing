@@ -20,7 +20,7 @@ public class ControlFabrica {
 	}
 
 	public void encenderFabrica() {
-		System.out.println("ENCENDER FÁBRICA");
+		System.out.println("ENCENDER FABRICA");
 		alarma.apagarAlarma();
 		luces.encender();
 		fabrica.iniciarFabrica();
@@ -28,7 +28,7 @@ public class ControlFabrica {
 	}
 	
 	public void apagarFabrica() {
-		System.out.println("APAGAR FÁBRICA");
+		System.out.println("APAGAR FABRICA");
 		fabrica.finalizarFabrica();
 		produccion.finalizarProduccion();
 		luces.apagar();
