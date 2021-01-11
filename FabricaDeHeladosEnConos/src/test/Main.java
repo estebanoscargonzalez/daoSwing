@@ -108,9 +108,9 @@ public class Main {
 		Clientes cliente = dao.buscarCliente(leg);
 
 		if (cliente != null) {
-			System.out.println("Resultado de la búsqueda del cliente: " + cliente.toString());
+			System.out.println("Resultado de la busqueda del cliente: " + cliente.toString());
 		} else {
-			System.out.println("No se encontraron resultados para la búsqueda");
+			System.out.println("No se encontraron resultados para la busqueda");
 		}
 	}
 
