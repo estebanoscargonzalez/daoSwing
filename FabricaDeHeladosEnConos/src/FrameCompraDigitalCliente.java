@@ -28,8 +28,8 @@ public class FrameCompraDigitalCliente{
 	private void registrarDatos() {	
 							
 			InterfazCliente dao = new Cliente();
-			Clientes cl = new Clientes(txtLegajo.getText(), txtApellido.getText(), txtNombre.getText(), txtCantidad.getText());
-			dao.registrar(cl);			
+			Clientes cliente = new Clientes(txtLegajo.getText(), txtApellido.getText(), txtNombre.getText(), txtCantidad.getText());
+			dao.registrar(cliente);			
 
 			//JOptionPane;
 			txtLegajo.setText("");
@@ -37,7 +37,7 @@ public class FrameCompraDigitalCliente{
 			txtNombre.setText("");
 			txtCantidad.setText("");
 		
-			JOptionPane.showMessageDialog(null, "El cliente se registro con exito");
+			JOptionPane.showMessageDialog(null, "El cliente con " + cliente.toString() + " se registro de manera exitosa.");
 	}
 	
 	private void buscarDatos() {
@@ -77,7 +77,7 @@ public class FrameCompraDigitalCliente{
 			txtNombre.setText("");
 			txtCantidad.setText("");
 			
-			JOptionPane.showMessageDialog(null, "El cliente se elimino con exito");
+			JOptionPane.showMessageDialog(null, "El cliente con " + cliente.toString() + " se elimino de manera exitosa.");
 		}			
 		
 	}
