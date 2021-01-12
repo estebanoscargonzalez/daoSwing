@@ -38,6 +38,7 @@ public class FrameCompraDigitalCliente{
 			txtCantidad.setText("");
 		
 			JOptionPane.showMessageDialog(null, "El cliente con " + cliente.toString() + " se registro de manera exitosa.");
+			System.out.println("Datos registrados: " + cliente.toString());
 	}
 	
 	private void buscarDatos() {
@@ -78,6 +79,7 @@ public class FrameCompraDigitalCliente{
 			txtCantidad.setText("");
 			
 			JOptionPane.showMessageDialog(null, "El cliente con " + cliente.toString() + " se elimino de manera exitosa.");
+			System.out.println("Datos eliminados: " + cliente.toString());
 		}			
 		
 	}
