@@ -3,7 +3,7 @@ package Factory;
 import negocio.Sabor;
 import negocio.BaniadoEnChocolate;
 import negocio.Aderezos;
-import negocio.SaborVainilla;
+import negocio.SaborFrutilla;
 import negocio.SinBaniado;
 import negocio.SinAderezos;
 import negocio.Tamanio;
@@ -16,7 +16,7 @@ public class ConoChicoSin implements FabricaHelados {
 	}
 
 	public Sabor crearSabor() {
-		return new SaborVainilla();
+		return new SaborFrutilla();
 	}
 
 	public Aderezos crearAderezos() {
