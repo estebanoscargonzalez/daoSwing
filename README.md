@@ -39,9 +39,9 @@ Entrega 2:
    El motor de base de datos utilizado es DB Browser for SQLite.
    Al ejecutar la clase Main del paquete test, se abrirá un menú que podremos utilizar desde la consola para interactuar con la base de datos, ya sea registrando, 
   buscando o eliminando los clientes cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados.
-	A su vez, la opción 1 del menú (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por consola el resultado de la implementación de los patrones de diseño realizados en la Entrega 1. Esta última opción, abrirá también un JPanel de despedida hecho con las librerías de Swing que, al cerrarlo, finaliza la ejecución del progrma.
+	A su vez, la opción 1 del menú (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por consola el resultado de la implementación de los patrones de diseño realizados en la Entrega 1. Esta última opción, abrirá también una interfaz gráfica de usuario de despedida hecha con las librerías de Swing que, al cerrarlo, finaliza la ejecución del progrma.
 
 Entrega 3:
 
-   En el JFrame “FrameCompraDigitalCliente”, los métodos DAO son llamados/invocados desde los componentes de Swing. De esta manera, se evita el alto acoplamiento y 
+   En la clase FrameCompraDigitalCliente, los métodos DAO son llamados/invocados desde los componentes de Swing. De esta manera, se evita el alto acoplamiento y 
   dependencia entre Swing y la base de datos.
