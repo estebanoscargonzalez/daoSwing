@@ -10,7 +10,7 @@ Enunciado del TP:
 
 Entrega 1:
 
-   En la primera instancia del trabajo práctico (TP1) cada alumno debe definir una situación problemática a resolver en la cual se empleen patrones de diseños en el desarrollo 
+   En la primera instancia del trabajo práctico (TP 1), cada alumno debe definir una situación problemática a resolver en la cual se empleen patrones de diseños en el desarrollo 
   de la aplicación. El alumno debe entregar una aplicación con la implementación de distintos patrones de diseño.
 	Esto servirá de estructura base para continuar con las entregas restantes del trabajo práctico. Para esta instancia, las entradas y salidas de datos/información serán 
   manipuladas mediante la consola de la IDE.
