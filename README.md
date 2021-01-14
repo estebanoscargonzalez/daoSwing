@@ -40,5 +40,4 @@ Entrega 2:
 
 Entrega 3:
 
-   En la clase FrameCompraDigitalCliente, los métodos DAO son llamados/invocados desde los componentes de Swing. De esta manera, se evita el alto acoplamiento y 
-  dependencia entre Swing y la base de datos. Esta clase permite que el usuario pueda interactuar con la base de datos desde una IGU.
+   La clase FrameCompraDigitalCliente permite que el usuario pueda interactuar con la base de datos desde una IGU.  Allí, los métodos DAO son llamados/invocados desde los componentes de Swing. De esta manera, se evita el alto acoplamiento y dependencia entre Swing y la base de datos.
