@@ -31,7 +31,7 @@ Entrega 3:
   
   Entrega 1:
 
-   La aplicación consiste en representar la producción de una fábrica de helados en conos (con o sin bañado en chocolate y de distintos tamaño y sabor). El patrón de 
+   La aplicación consiste en representar la producción de una fábrica de helados en conos de distintos tamaño y sabor, con o sin aderezos y/o bañado en chocolate. El patrón de 
   diseño de construcción que se emplea es Factory Method, combinado con el patrón de diseño de estructuración Facade. 
 
 Entrega 2:
