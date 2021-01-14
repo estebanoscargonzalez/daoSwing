@@ -36,10 +36,10 @@ Entrega 3
 
 Entrega 2:
 
-   El motor de base de datos utilizado es DB Browser for SQLite.
    Al ejecutar la clase Main del paquete test, se abrirá un menú que podremos utilizar desde la consola para interactuar con la base de datos, ya sea registrando, 
   buscando o eliminando los clientes cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados.
 	A su vez, la opción 1 del menú (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por consola el resultado de la implementación de los patrones de diseño realizados en la Entrega 1. Esta última opción, abrirá también una interfaz gráfica de usuario de despedida hecha con las librerías de Swing que, al cerrarlo, finaliza la ejecución del progrma.
+	El motor de base de datos utilizado es DB Browser for SQLite.
 
 Entrega 3:
 
