@@ -32,7 +32,7 @@ Entrega 3
   Entrega 1:
 
    La aplicación consiste en representar la producción de una fábrica de helados en conos de distintos tamaño y sabor, con o sin aderezos y/o bañado en chocolate. El patrón de diseño de construcción que se emplea es Factory Method, combinado con el patrón de diseño de estructuración Facade.
-Al ejecutar la clase Main del paquete test, se visualizará un menú en la consola. La opción 1 (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por pantalla el resultado de la implementación de los patrones de diseño realizados. Esta última opción, mostrará también una interfaz gráfica de usuario de despedida hecha con las librerías de Swing que, al ser cerrada, finalizará la ejecución del programa.
+Al ejecutar la clase Main del paquete test, se visualizará un menú en la consola. La opción 1 (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por pantalla el resultado de la implementación de los patrones de diseño realizados. Esta última opción, mostrará también una interfaz gráfica de usuario hecha con las librerías de Swing que, al ser cerrada, finalizará la ejecución del programa.
 
 Entrega 2:
 
