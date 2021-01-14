@@ -36,7 +36,7 @@ Al ejecutar la clase Main del paquete test, se visualizará un menú en la conso
 
 Entrega 2:
 
-   Además, podremos utilizar las opciones 2, 3 y 4 del menú para interactuar con la base de datos, ya sea registrando, buscando o eliminando clientes, cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados. El motor de base de datos utilizado es DB Browser for SQLite.
+   Además, podremos utilizar las opciones 2, 3 y 4 del menú para interactuar por consola con la base de datos, ya sea registrando, buscando o eliminando clientes, cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados. El motor de base de datos utilizado es DB Browser for SQLite.
 
 Entrega 3:
 
