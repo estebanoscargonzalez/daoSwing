@@ -1,5 +1,5 @@
 # daoSwing
-TP Final de Paradigmas de Programacion 2020
+TP Final de Paradigmas de Programación 2020
 
 Enunciado del TP: 
 
