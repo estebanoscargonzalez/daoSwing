@@ -8,7 +8,7 @@ Enunciado del TP
 - acceso a una base de datos mediante JDBC;
 - interfaz gráfica con la librería de Swing.
 
-Entrega 1:
+Entrega 1
 
    En la primera instancia del trabajo práctico, cada alumno debe definir una situación problemática a resolver en la cual se empleen patrones de diseño en el desarrollo 
   de la aplicación. El alumno debe entregar una aplicación con la implementación de distintos patrones de diseño.
@@ -16,14 +16,14 @@ Entrega 1:
   manipuladas mediante la consola de la IDE.
 	Se debe presentar la aplicación programada con los patrones de diseño propuestos para su codificación.
 
-Entrega 2:
+Entrega 2
 
    Luego de definir e implementar los patrones de diseño, se debe agregar la utilización de persistencia de datos sobre el proyecto. Se deben identificar aquellos datos que 
   pueden ser persistidos en una base de datos. Para persistir y consultar la información se debe emplear JDBC mediante el patrón DAO. Los datos a persistir no necesariamente 
   tienen que estar relacionados con los patrones de diseño seleccionados. El motor de base de datos a utilizar queda a libre elección del alumno, siempre y cuando sea una base 
   de datos relacional.
 
-Entrega 3:
+Entrega 3
 
    Habiendo completado las etapas anteriores, por último, se debe incorporar una interfaz gráfica con la librería de Swing que permita la interacción del usuario con la 
   aplicación.
