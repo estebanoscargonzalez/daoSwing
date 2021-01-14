@@ -3,7 +3,7 @@ TP Final de Paradigmas de Programacion 2020
 
 Enunciado TP: 
 
-   El propósito del trabajo práctico de la materia es realizar una aplicación programada en Java que permita resolver una situación problemática a libre elección del alumno. Para el desarrollo de la aplicación se deben utilizar los conceptos que se estudian a lo largo de la materia. La resolución programada de la aplicación debe implementar:
+   El propósito del trabajo práctico de la materia es realizar una aplicación programada en Java que permita resolver una situación problemática a libre elección del alumno. Para el desarrollo de la aplicación, se deben utilizar los conceptos que se estudian a lo largo de la materia. La resolución programada de la aplicación debe implementar:
 - patrones de diseño vistos en clases
 - acceso a una base de datos mediante JDBC
 - interfaz gráfica con la librería de Swing
