@@ -31,15 +31,12 @@ Entrega 3
   
   Entrega 1:
 
-   La aplicación consiste en representar la producción de una fábrica de helados en conos de distintos tamaño y sabor, con o sin aderezos y/o bañado en chocolate. El patrón de 
-  diseño de construcción que se emplea es Factory Method, combinado con el patrón de diseño de estructuración Facade. 
+   La aplicación consiste en representar la producción de una fábrica de helados en conos de distintos tamaño y sabor, con o sin aderezos y/o bañado en chocolate. El patrón de diseño de construcción que se emplea es Factory Method, combinado con el patrón de diseño de estructuración Facade.
+Al ejecutar la clase Main del paquete test, se abrirá un menú en la consola. La opción 1 (Encender fabrica) y la opción 5 (Apagar fabrica) mostrarán el resultado de la implementación de los patrones de diseño realizados. Esta última opción, abrirá también una interfaz gráfica de usuario de despedida hecha con las librerías de Swing que, al ser cerrada, finalizará la ejecución del progrma.
 
 Entrega 2:
 
-   Al ejecutar la clase Main del paquete test, se abrirá en la consola un menú que podremos utilizar para interactuar con la base de datos, ya sea registrando, 
-  buscando o eliminando clientes, cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados.
-	A su vez, la opción 1 del menú (Encender fabrica) y la opción 5 (Apagar fabrica) imprimirán por consola el resultado de la implementación de los patrones de diseño realizados en la Entrega 1. Esta última opción, abrirá también una interfaz gráfica de usuario de despedida hecha con las librerías de Swing que, al ser cerrada, finalizará la ejecución del progrma.
-	El motor de base de datos utilizado es DB Browser for SQLite.
+   Podremos utilizar las opciones 2, 3 y 4 del menú para interactuar con la base de datos, ya sea registrando, buscando o eliminando clientes, cuyos atributos son: legajo, apellido, nombre y cantidad de helados comprados. El motor de base de datos utilizado es DB Browser for SQLite.
 
 Entrega 3:
 
