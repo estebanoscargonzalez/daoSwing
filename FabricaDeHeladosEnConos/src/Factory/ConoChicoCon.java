@@ -11,7 +11,7 @@ import negocio.TamanioChico;
 
 public class ConoChicoCon implements FabricaHelados {
 
-	public Tamanio crearTamanioConoChicoCon() {
+	public Tamanio crearTamanio() {
 		return new TamanioChico();
 	}
 
@@ -26,13 +26,4 @@ public class ConoChicoCon implements FabricaHelados {
 	public BaniadoEnChocolate crearBaniadoEnChocolate() {
 		return new ConBaniado();
 	}
-
-	@Override
-	public Tamanio crearTamanio() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-    
-
 }
