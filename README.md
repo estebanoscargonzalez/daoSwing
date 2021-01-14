@@ -19,7 +19,7 @@ Entrega 1
 Entrega 2
 
    Luego de definir e implementar los patrones de diseño, se debe agregar la utilización de persistencia de datos sobre el proyecto. Se deben identificar aquellos datos que 
-  pueden ser persistidos en una base de datos. Para persistir y consultar la información se debe emplear JDBC mediante el patrón DAO. Los datos a persistir no necesariamente 
+  pueden ser persistidos en una base de datos. Para persistir y consultar la información, se debe emplear JDBC mediante el patrón DAO. Los datos a persistir no necesariamente 
   tienen que estar relacionados con los patrones de diseño seleccionados. El motor de base de datos a utilizar queda a libre elección del alumno, siempre y cuando sea una base 
   de datos relacional.
 
